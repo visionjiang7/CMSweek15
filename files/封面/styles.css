@@ -1,0 +1,40 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(0, 0, 102, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:921px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:841px;
+  height:131px;
+}
+#u0 {
+  position:absolute;
+  left:81px;
+  top:133px;
+  width:840px;
+  height:130px;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
+  color:#CCCCCC;
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:840px;
+  word-wrap:break-word;
+}
